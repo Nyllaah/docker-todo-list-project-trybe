@@ -5,6 +5,7 @@ This is a project I developed during Trybe's Front-End Web Development course. I
 ## Technologies
 - JavaScript
 - Docker
+  - docker-compose
 
 ## Developed by me
 - /docker/docker-commands
